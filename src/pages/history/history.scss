@@ -1,0 +1,13 @@
+@import url("../../app.scss");
+
+.history-page{
+  padding: 20px;
+  color: white;
+  background-color: rgb(140, 105, 217);
+  min-height: 100vh;
+  .card{
+    background-color: rgb(140, 105, 217);
+    border-radius: 10rpx;
+    padding: 20px;
+  }
+}
