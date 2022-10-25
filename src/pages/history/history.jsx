@@ -5,7 +5,7 @@ import { Collapse, CollapseItem, Tag } from '@antmjs/vantui'
 import './history.scss'
 
 const RenderTag = (props) => {
-  return <Tag mark color='#8C69D9' >{props.text}</Tag>
+  return <Tag mark color='#8C69D9' style='margin-top: 10px' >{props.text}</Tag>
 }
 export default function History() {
   const [values, setValues] = useState(['0','1','2'])

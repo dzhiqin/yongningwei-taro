@@ -80,7 +80,7 @@ export default class Index extends Component {
           <Title title='关于我' />
           <View className='card-panel'>
             <CardItem text='毕业院校： 湖南科技大学 09届 全日制本科' />
-            <CardItem text='专业： 电子信息科学与技术' />
+            <CardItem text='专业： 电子信息科学与技术  英语四级' />
             <CardItem text='籍贯： 福建石狮' />
             <CardItem text='1年ruby全栈经验，4年前端开发经验。目前主要使用taro框架+react或者vue进行小程序和web开发，也有Ruby on Rails全栈开发的经验。有angular，graphql，nodejs等等开发经验。理解敏捷开发的精神，能主动推进项目。早期有过几年的电子工程师工作经验，了解电子元件、电路图绘制、单片机编程等等技术，后来因个人兴趣原因转为软件开发' />
           </View>
